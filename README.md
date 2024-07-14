@@ -1,4 +1,4 @@
-# EMBC Workshop:Model-Based Design for Cardiovascular Monitoring Devices:Examples Using Oscillometric and Continuous Blood Pressure Methods
+# EMBC Workshop: <br/> Model-Based Design for Cardiovascular Monitoring Devices: <br/> Examples Using Oscillometric and Continuous Blood Pressure Methods
 
 ---
 
@@ -19,8 +19,8 @@ Uncertainty, Uncertainty propagation, Error, Measures of Agreement, Data Quality
   * Demonstrate the use of basic Matlab®/Simulink® functionalities to explore system behavior.
   * Provide participants with hands-on experience by sharing relevant code for simulation.
 * Introduction to Uncertainty Quantification and Sensitivity Analysis:
-  Understand how to evaluate different design choices through uncertainty quantification and sensitivity analysis.
-  Discuss the crucial role of these analyses in designing robust and reliable monitoring devices.
+  * Understand how to evaluate different design choices through uncertainty quantification and sensitivity analysis.
+  * Discuss the crucial role of these analyses in designing robust and reliable monitoring devices.
 
 
 ### Support or Contact
